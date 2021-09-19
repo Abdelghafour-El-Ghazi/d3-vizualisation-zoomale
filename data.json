@@ -1,0 +1,78 @@
+{
+    "name": "flare",
+    "children": [
+     {
+      "name": "A",
+      "children": [
+       {
+        "name": "aaa",
+        "children": [
+         {"name": "AgglomerativeCluster", "value": 3938},
+         {"name": "CommunityStructure", "value": 3812}
+        ]
+       },
+       {
+        "name": "bbb",
+        "children": [
+         {"name": "BetweennessCentrality", "value": 3534},
+         {"name": "LinkDistance", "value": 5731}
+        ]
+       },
+       {
+        "name": "ccc",
+        "children": [
+         {"name": "AspectRatioBanker", "value": 7074}
+        ]
+       }
+      ]
+     },
+     {
+      "name": "B",
+      "children": [
+       {
+        "name": "zzz",
+        "children": [
+         {"name": "ArrayInterpolator", "value": 1983},
+         {"name": "ColorInterpolator", "value": 2047}
+        ]
+       },{
+        "name": "xxx",
+        "children": [
+         {"name": "ArrayInterpolator", "value": 1983},
+         {"name": "ColorInterpolator", "value": 2047}
+        ]
+       }
+      ]
+     },
+     {
+      "name": "C",
+      "children": [
+       {
+        "name": "hhh",
+        "children": [
+         {"name": "Converters", "value": 721},
+         {"name": "DelimitedTextConverter", "value": 4294},
+         {"name": "GraphMLConverter", "value": 9800}
+        ]
+       },{
+        "name": "mmm",
+        "children": [
+         {"name": "Converters", "value": 721},
+         {"name": "DelimitedTextConverter", "value": 4294},
+         {"name": "GraphMLConverter", "value": 9800}
+        ]
+       },
+       {
+        "name": "nnn",
+        "children": [
+         {"name": "Converters", "value": 721},
+         {"name": "DelimitedTextConverter", "value": 4294},
+         {"name": "GraphMLConverter", "value": 9800},
+         {"name": "IDataConverter", "value": 1314},
+         {"name": "JSONConverter", "value": 2220}
+        ]
+       }
+      ]
+     }
+    ]
+   }
